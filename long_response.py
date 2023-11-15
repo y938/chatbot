@@ -1,0 +1,16 @@
+plan = 'Planning a trip? Let me know your preferences, and I can suggest some amazing destinations!'
+visa = 'If you need information about visa requirements or travel insurance, feel free to ask!'
+tips = 'Explore our blog for travel tips and inspiration before your next adventure!'
+booking = "Booking with us is easy! Just let me know your travel dates, and I'll find the best options for you."
+check = 'Check our website for real-time flight updates and travel advisories.'
+hotel = "For hotel recommendations or car rental services, I've got you covered!"
+package = 'Explore our travel packages for hassle-free and budget-friendly vacations!'
+destination = 'Dreaming of a specific country? Let me know your desired destination, and I can provide you with information on the best time to visit, local attractions, and more.'
+europe = 'Considering a European adventure? I can recommend popular cities like Paris, Rome, and Barcelona, along with hidden gems for a unique travel experience.'
+asia = "Exploring Asia? Whether it's the vibrant streets of Tokyo or the serene beaches of Bali, I can help you plan a memorable journey tailored to your interests."
+south_america = 'Interested in a South American getaway? Ask me about the rich culture of Peru, the breathtaking landscapes of Chile, or the vibrant festivals in Brazil.'
+africa = 'Planning a safari in Africa? I can provide information on wildlife reserves, safari tours, and the best times to witness the incredible animal migrations.'
+north_america = "Curious about North America? Whether it's exploring national parks in the U.S. or experiencing the diverse culture of Canada, I've got recommendations for you."
+caribbean = 'Thinking of island hopping in the Caribbean? I can suggest idyllic destinations like the Bahamas, Jamaica, and the Dominican Republic for a tropical escape.'
+middle_east = 'Planning a trip to the Middle East? Discover the historical wonders of Egypt, the modern architecture of Dubai, and the cultural richness of Jordan.'
+australia = 'Looking for a unique experience? How about exploring the diverse landscapes and cultures of Australia and New Zealand? I can provide travel tips for Down Under.'
