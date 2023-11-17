@@ -13,7 +13,6 @@ class TravelBotGUI:
 
     def create_widgets(self):
         style = ttk.Style()
-
         # Set up the title label
         title_label = tk.Label(self.master, text="Travel Bot", font=("Arial", 18))
         title_label.pack(pady=10)
