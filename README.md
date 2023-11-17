@@ -10,7 +10,7 @@ A simple application for a Travel Bot built using Tkinter in Python.
 
 # Usage
 
-1. python bot.py
+1. run python bot.py
 2. Enter your messages in the input field.
 3. Click the "Send" button.
 4. The Travel Bot will respond based on predefined patterns.
